@@ -10,8 +10,10 @@ To write a C Program to find area of rectangle using pointer.
 5.	Stop the program.
 
 ## PROGRAM
+![Screenshot 2025-04-26 105449](https://github.com/user-attachments/assets/5dbeaa84-a4c0-492d-890d-1ec78e7c3675)
 
 ## OUTPUT
+![Screenshot 2025-04-26 105500](https://github.com/user-attachments/assets/0184d91d-f8db-4645-8af5-1754bd1be031)
 		       	
 
 
@@ -34,8 +36,11 @@ To write a C Program to print 'WELCOME' using malloc() and free().
 6.	Stop the program.
 
 ## PROGRAM
+![Screenshot 2025-04-26 110032](https://github.com/user-attachments/assets/e0ab2cb8-736a-4d3a-9614-c150ef7c47c8)
+
 
 ## OUTPUT
+![Screenshot 2025-04-26 110040](https://github.com/user-attachments/assets/8ec16b69-1983-4cf1-9bc5-a6b4911452f7)
 
 
 
@@ -60,9 +65,11 @@ To write a C Program to store the student information and display it using struc
 4.	Stop the program.
 
 ## PROGRAM
+![Screenshot 2025-04-26 110659](https://github.com/user-attachments/assets/6004e83a-2507-4c7f-abb1-3c169f0248fe)
 
 
 ## OUTPUT
+![Screenshot 2025-04-26 110706](https://github.com/user-attachments/assets/d52661bb-68a8-40e5-a327-f7bdef0daebf)
 
 
 ## RESULT
@@ -87,11 +94,14 @@ To write a C Program to read and store the data of 3 employees and calculate the
 5.	Stop the program.
 
 ## PROGRAM
+![Screenshot 2025-04-26 112958](https://github.com/user-attachments/assets/91f7b7f1-d896-4a90-b620-45c64c39d007)
 
 
  ## OUTPUT
+![Screenshot 2025-04-26 113017](https://github.com/user-attachments/assets/6b0058d9-26a4-44d6-aa42-af6ca1dfca85)
 
- 
+![Screenshot 2025-04-26 113023](https://github.com/user-attachments/assets/c656b9ad-f430-485c-a313-9589d4c391c1)
+
 
 ## RESULT
 
@@ -134,11 +144,15 @@ Step 7: Output Loop (i = 0 to 1):
 Step 8: End the program.
 
 ## PROGRAM
+![Screenshot 2025-04-26 113655](https://github.com/user-attachments/assets/a1514c7d-ab76-4b98-b845-b8d42eadd5f7)
 
 
 ## OUTPUT
 
- 
+![image](https://github.com/user-attachments/assets/bcc3d330-5d49-47d5-a91a-70803f8e0a1b)
+![Screenshot 2025-04-26 113714](https://github.com/user-attachments/assets/fa7a48d7-1d8b-4b15-9a5c-e21e1eb7dd1b)
+![Screenshot 2025-04-26 113722](https://github.com/user-attachments/assets/02d899ee-e98d-4d84-8126-2366a96e9f9b)
+
 
 ## RESULT
 
